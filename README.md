@@ -30,15 +30,17 @@ The API should have proper exception handling.
 
 The API should have proper documentation with examples of how to use the API endpoints.
 
+
 Deliverables:
 
 A GitHub repository containing the code for the API.
 
 A README file that explains how to build and run the API.
 
-A Postman collection that contains the API endpoints and example requests.
+A Postman collection or swagger file that contains the API endpoints and example requests.
 
 A document that explains the architecture of the API, the choice of database and any other design decisions.
+
 
 Evaluation Criteria:
 
